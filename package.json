@@ -1,0 +1,16 @@
+{
+  "name": "gpuoo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Riaan Potgieter",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.13.0",
+    "node-crontab": "0.0.8",
+    "trim": "0.0.1"
+  }
+}
